@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import {connect} from 'react-redux';
 
 let getData = (store) => {
-    console.log(store)
+    // console.log(store)
     return {
         store
     }
